@@ -1,0 +1,26 @@
+body{
+    width: 550px;
+    align-content: center;
+    margin: auto;
+}
+
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.header-date{
+    color:grey
+}
+
+.post-body img{
+    width: 550px;
+    height: 410px;
+}
+
+.post-footer p{
+    padding: 0px 15px 0px 15px;
+}
